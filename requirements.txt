@@ -1,3 +1,9 @@
 pandas
 seaborn
+<<<<<<< HEAD
 numpy
+=======
+numpy
+openai
+python-dotenv
+>>>>>>> 7ecc069 (feat: add converter from csv to json)
